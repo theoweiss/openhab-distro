@@ -26,6 +26,7 @@
   <modules>
     <module>openhab-offline</module>
     <module>openhab-online</module>
+    <module>apt</module>
   </modules>
 
   <build>

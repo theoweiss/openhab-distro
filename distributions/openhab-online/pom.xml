@@ -155,10 +155,6 @@
                 <artifactId>jdeb</artifactId>
                 <groupId>org.vafer</groupId>
             </plugin>
-            <plugin>
-                <artifactId>apt-repo</artifactId>
-                <groupId>org.m1theo</groupId>
-            </plugin>
         </plugins>
     </build>
 
